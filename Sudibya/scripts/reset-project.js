@@ -82,3 +82,8 @@ const moveDirectories = async () => {
 };
 
 moveDirectories();
+
+
+
+
+// Here I added all the changes that I have made and all other changes as well that I need to make to make the application look better in a way.
